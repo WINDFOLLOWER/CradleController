@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC Pin=PWM1-2
+Removed Pin From Net: NetName=VCC Pin=PWM2-2
+Removed Pin From Net: NetName=VCC Pin=PWM3-2
+Removed Pin From Net: NetName=VCC Pin=PWM4-2
+Added Pin To Net: NetName=5V Pin=PWM1-2
+Added Pin To Net: NetName=5V Pin=PWM2-2
+Added Pin To Net: NetName=5V Pin=PWM4-2
+Added Pin To Net: NetName=V5 Pin=PWM3-2
+Added Net: Name=V5
+Change Class Name : Old Net Name=001 New Net Name=Cradle Controller
+Change Room Name: Old Name=001 New Name=Cradle Controller
+Change Room Scope: Old Scope=InComponentClass('001') New Scope=InComponentClass('Cradle Controller')

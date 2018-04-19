@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=INT Pin=STM32F103C8T6-40
+Added Pin To Net: NetName=INT Pin=STM32F103C8T6-42
