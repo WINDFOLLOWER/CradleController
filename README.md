@@ -12,12 +12,12 @@
 
 ### English Version  
 ## CradleController
-Equipped with MPU6050 module
-Four PWM outputs
-Reserve IIC serial port input
-Only support SW programming program
-No algorithm
-Support for rewriting
+Equipped with MPU6050 module   
+Four PWM outputs   
+Reserve IIC serial port input  
+Only support SW programming program   
+No algorithm   
+Support for rewriting   
 
 **ps: I forgot to draw tears **
 
